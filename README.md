@@ -2,10 +2,7 @@
   <img src="docs/Screenshot%202568-08-24%20at%2012.43.23.png" alt="nanoMIDI app screenshot" width="880" />
 </p>
 
-[![คำอธิบายภาพหน้าจอ](ชื่อไฟล์ภาพหน้าจอ.png)](https://streamable.com/e/ekmasy)
-<h1 align="center">nanoMIDI (macOS)</h1>
-<p align="center">แอปเล็ก ๆ สำหรับเล่นทำนองจากสคริปต์/ไฟล์ MIDI ด้วยการส่งคีย์บอร์ดอัตโนมัติ (CGEvent)</p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## คุณสมบัติหลัก
