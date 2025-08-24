@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ekmasy?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>  <br/>
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=BJaoFWlp4Zo)
+
 </p>
 
 <h1 align="center">nanoMIDI (macOS)</h1>
