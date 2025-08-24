@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <video src="docs/Screen%20Recording%202568-08-24%20at%2012.46.55.mov" width="880" controls playsinline poster="docs/screenshot.png"></video>
+  <video src="https://streamable.com/ekmasy" width="880" controls playsinline poster="docs/screenshot.png"></video>
   <br/>
-  <em>วิดีโอสาธิตการใช้งาน (วางไฟล์ที่ <code>docs/demo.mp4</code>)</em>
 </p>
 
 <h1 align="center">nanoMIDI (macOS)</h1>
@@ -38,13 +37,6 @@
 1. โคลนโปรเจกต์แล้วเปิดด้วย Xcode
 2. ตรวจสอบว่า target เป็น **macOS App** (มี Capability: Accessibility + sandbox file access ผ่าน File Importer)
 3. Build & Run (`⌘R`)
-
-> **สื่อประกอบ**
->
-> * ภาพหน้าจอ: วางไฟล์ไว้ที่ `docs/screenshot.png`
-> * วิดีโอสาธิต: วางไฟล์ไว้ที่ `docs/demo.mp4` (H.264/AAC แนะนำ)
-> * ถ้าต้องการวางบน GitHub ให้ commit โฟลเดอร์ `docs/` เข้าพร้อม README นี้
-
 ---
 
 ## การใช้งานเร็ว ๆ (Quick Start)
