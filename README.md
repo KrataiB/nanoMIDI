@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="docs/screenshot.png" alt="nanoMIDI app screenshot" width="880" />
+  <img src="docs/Screenshot%202568-08-24%20at%2012.43.23.png" alt="nanoMIDI app screenshot" width="880" />
 </p>
 
 <p align="center">
-  <video src="docs/demo.mp4" width="880" controls playsinline poster="docs/screenshot.png"></video>
+  <video src="docs/Screen%20Recording%202568-08-24%20at%2012.46.55.mov" width="880" controls playsinline poster="docs/screenshot.png"></video>
   <br/>
   <em>วิดีโอสาธิตการใช้งาน (วางไฟล์ที่ <code>docs/demo.mp4</code>)</em>
 </p>
