@@ -2,8 +2,7 @@
   <img src="docs/Screenshot%202568-08-24%20at%2012.43.23.png" alt="nanoMIDI app screenshot" width="880" />
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
----
+https://github.com/user-attachments/assets/24538a6a-343d-43fe-bd0c-56053bdede6f
 
 ## คุณสมบัติหลัก
 
