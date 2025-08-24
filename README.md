@@ -2,8 +2,7 @@
   <img src="docs/Screenshot%202568-08-24%20at%2012.43.23.png" alt="nanoMIDI app screenshot" width="880" />
 </p>
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ekmasy?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
+[![คำอธิบายภาพหน้าจอ](ชื่อไฟล์ภาพหน้าจอ.png)](https://streamable.com/e/ekmasy)
 <h1 align="center">nanoMIDI (macOS)</h1>
 <p align="center">แอปเล็ก ๆ สำหรับเล่นทำนองจากสคริปต์/ไฟล์ MIDI ด้วยการส่งคีย์บอร์ดอัตโนมัติ (CGEvent)</p>
 
